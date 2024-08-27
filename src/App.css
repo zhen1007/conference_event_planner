@@ -7,7 +7,7 @@
 .first_page {
   display: flex;
   height: 100vh;
-  background-image: url("./assets/conference_room.jpg");
+  background-image: url("/assets/conference_room.jpg");
   background-size: cover;
   background-position: center;
   justify-content: center;
